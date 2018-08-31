@@ -1,0 +1,10 @@
+JavaScript: what is the correct way to create a JavaScript array?
+
+a) var items = ["Orange", "Apple"];
+
+b) var items = {"Orange", "Apple"};
+
+c) var items = new array("Orange", "Apple");
+
+d) var items[] = {"Orange", "Apple"};
+Answer:A 
